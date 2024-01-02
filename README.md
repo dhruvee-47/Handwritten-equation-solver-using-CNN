@@ -1,5 +1,5 @@
 
-# Task 9 -  Handwritten Math equation solver using CNN 
+# Handwritten Math equation solver using CNN 
 
 ## dataset - https://www.kaggle.com/datasets/xainano/handwrittenmathsymbols
 
